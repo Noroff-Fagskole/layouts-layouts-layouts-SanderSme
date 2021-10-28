@@ -9,6 +9,8 @@
   --gutter: 20px;
   --gutter-sml: 10px;
   --default-font-family: 'Open Sans', sans-serif;
+  --secondary-font-family: 'Roboto';
+  --teriary-font-family: 'Helvetica';
 }
 
 body {
